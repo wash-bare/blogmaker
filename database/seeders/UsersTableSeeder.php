@@ -14,7 +14,7 @@ class UsersTableSeeder extends Seeder
     public function run()
     {
         $rows = [
-          ['name' => '新井　勉', 'email' => 'arai1webcreator@gmail.com'],
+          ['name' => 'Araiguma', 'email' => 'araiguma@yahoo.com'],
           ['name' => 'テスト　太郎', 'email' => 'taro1@yahoo.com'],
           ['name' => 'テスト　次郎', 'email' => 'taro2@yahoo.com'],
           ['name' => 'テスト　三郎', 'email' => 'taro3@yahoo.com'],
