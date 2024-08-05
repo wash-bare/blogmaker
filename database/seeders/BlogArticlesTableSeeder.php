@@ -49,7 +49,7 @@ class BlogArticlesTableSeeder extends Seeder
           ],
           [
             'code' => 'Ameba01',
-            'title' => 'プランターで玉葱を育てる',
+            'title' => '草むしり検定３級にチャレンジ',
             'category' => '',
             'detail' => '',
             'parent' => '',
