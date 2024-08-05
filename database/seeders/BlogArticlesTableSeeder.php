@@ -27,7 +27,7 @@ class BlogArticlesTableSeeder extends Seeder
           ],
           [
             'code' => 'WP0001',
-            'title' => 'AWSサーバ構築',
+            'title' => 'WordPressサイト構築',
             'category' => '',
             'detail' => '',
             'parent' => '',
